@@ -2,6 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/eab00f51-2f2a-46f9-964c-dd2b6715f65f)
 
+blog post: https://medium.com/@nadaayoussef.202/brewing-insights-unleashing-data-science-to-transform-starbucks-customer-experience-4ba62926c48a
+
 ## Table of Contents
 - [Overview](#overview)
 - [Motivation](#motivation)
